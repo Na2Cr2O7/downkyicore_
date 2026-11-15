@@ -1,4 +1,4 @@
-# 哔哩下载姬(跨平台版)
+# 哔哩下载姬(跨平台版)/.NET 10
 
 <div align="center">
 
@@ -23,6 +23,7 @@
 - 开发这个版本目的是由于本人日常使用macOS，当我想下载up视频是偶然间发现了[哔哩下载姬Windows版](https://github.com/leiurayer/downkyi)，发现很好用，就是不能支持macOS使用，就基于AvaloniaUI重新开发了一个跨平台版本。
 
 ## 使用说明
+我不会上传>25MB的文件
 - 软件自带.NET6、ffmpeg、aria2运行环境、无需自行安装
 - 默认下载路径:
   - Windows: 软件运行目录下的Media文件夹
